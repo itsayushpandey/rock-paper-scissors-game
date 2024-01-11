@@ -1,2 +1,3 @@
-# rock-paper-scissors-game
-rock-paper-scissors-game for web as well as android App
+# rock-paper-scissors-game (Game Link : https://rock-paper-scissors-app.000webhostapp.com/)
+
+I've created this small game for Web as well as android application using html, css, javaScript.
